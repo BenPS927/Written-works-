@@ -6,5 +6,6 @@ I've always found I learn best by learning about something, and then writing it 
 Featured
 
 Comptia Network Plus Textbook https://github.com/BenPS927/Written-works-/blob/main/Network%2Bweb.pdf
+The first five sections of this were written by having ai write the content and i'd transcribe it. By the sixth chapter I realised I'd learn better by doing it all myself from Jason Dion's online lectures and youtube/google research. This change can be seen obviously in the difference in language.
 
 
